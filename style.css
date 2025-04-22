@@ -1,0 +1,39 @@
+/* Estilos para a tela de login */
+body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f3f4f6;
+}
+
+.login-container {
+    width: 100%;
+    max-width: 400px;
+    padding: 1rem;
+}
+
+/* Estilos responsivos */
+@media (max-width: 640px) {
+    .login-container {
+        padding: 0.5rem;
+    }
+}
+
+/* Animações e transições */
+.btn, .input, .link {
+    transition: all 0.3s ease;
+}
+
+/* Melhorias de acessibilidade */
+.sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border-width: 0;
+}
