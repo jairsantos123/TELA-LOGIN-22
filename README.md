@@ -51,7 +51,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👤 Autor
 
-Projeto desenvolvido por:
+Projeto desenvolvido por: Jairo Rocha.
 
-Jairo Rocha
-Orientador: Luan Oliveira dos Santos
+
+Orientador: Luan Oliveira.
